@@ -42,3 +42,11 @@ These resources are used in the teaching of the class _Introduction to Python Pr
 - Explore how we address errors in our code
 - Introduce process of debugging: when our code runs but doesn't produce what we expect
 - Introduce the debugging tools, e.g., simulated data
+
+**Class 9 - 12: Building first experiment**
+- Goal: to extend or replicate a prior finding from a behavioral study read during the semester
+- Start with experimental proposal that includes detailed sketch of control flow of experiment, control flow timing, and associated variables/stimuli
+- Class 9: collect and create stimuli needed, create all display screens (fixation cross, feedback screens, instruction screens, etc.)
+- Class 10: Set up any conditionality and create trial for loop
+- Class 11: Set up data collection and storage system
+- Class 12: Debugging and user testing on fellow cohort mates
