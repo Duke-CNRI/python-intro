@@ -1,6 +1,6 @@
 # python-intro
 
-These resources are used in the teaching of the class _Introduction to Python Programming for Experimental Design_ at Duke University for the CNRI program. Our class was specifically designed around teaching and using `Python` to build behavioral experiments in `PsychoPy`. 
+These resources are used in the teaching of the class _Introduction to Python Programming for Experimental Design_ at Duke University for the Cognitive Neuroscience Research Program (CNRI) program. Our class was specifically designed around teaching and using `Python` to build behavioral experiments in `PsychoPy`. 
 
 ### Table of contents
 
