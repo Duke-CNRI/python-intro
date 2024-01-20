@@ -4,24 +4,22 @@ These resources are used in the teaching of the class _Introduction to Python Pr
 
 ### Table of contents
 
-**Class 1: Introduction to Computer Programming and the Purpose of this class**
+**Class 1: Introduction to computer programming, the purpose of this class, variables, and datatypes**
 - Introduce syllabus and goals of the class
 - Introduce why scientist use computer programming, what it allows us to do and how we will use it in this class
-- Introduce elements of an experiment and map python concept -> element
+- Formally introduce setting variables and different datatypes of variables (string, integers, and floats), Booleans, and the concept of evaluations
 
-**Class 2: Introduction to datatypes, Booleans, Control Flow 1: conditionality**
-- Formally introduce setting variables and different datatypes of variables (string, integers, and floats)
-- Introduce Booleans, and the concept of evaluations
+**Class 2: Introduction to control flow: conditionality and loops** 
 - Introduce conditionality, the concept of control flow, and why it's useful!
+- Introduce loops and iterators
+- Build familiarity with Python syntax, indentation, interactions with variables
  
-**Class 3: Control Flow 2: Loops & Lists**
-- Continue with elements of control flow
-- Introduce while loops and for loops, noting differences between them
-- Introduce the additional datatype lists, why they're super cool and how to use them
+**Class 3: Building our own functions**
+- Introduce functions and why we might want them
+- Continue to build familiarity with Python syntax, focusing on function creation
+- Create our own function and learn how to interact with them!
 
 **Class 4: Building experimental blocks, functions/methods (brief mention of classes/objects)**
-- Introduce functions and why we might want the
-- What are the components of a function and how do we define them? 
 - Introduce methods, how they are both similar and different to functions
 - Briefly mention concepts of classes and objects (that we will touch on again in the next class) 
 
